@@ -17,7 +17,5 @@ This repository contains a curated collection of custom `.jpg` backdrops for **R
   - 6 Units
 
 
-  ![Captura de pantalla 2025-08-28 122045](https://github.com/user-attachments/assets/b8d25aa6-8f7d-4554-87ad-2a1efc575c6d)
-![Captura de pantalla 2025-08-28 122004](https://github.com/user-attachments/assets/464526f7-0304-442f-8a8e-83234fad1b55)
 ![Captura de pantalla 2025-08-28 121446](https://github.com/user-attachments/assets/eb63b237-fad7-42c1-804e-1a20751e6e83)
 
